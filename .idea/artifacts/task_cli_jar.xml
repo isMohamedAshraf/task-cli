@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/task_cli_jar</output-path>
     <root id="archive" name="task-cli.jar">
       <element id="module-output" name="task-cli" />
+      <element id="file-copy" path="$PROJECT_DIR$/banner.txt" />
     </root>
   </artifact>
 </component>
